@@ -3,7 +3,7 @@ Practicing Java, Spring Boot and Vue.js
 
 # Overview
 
-- Accepts loan amount, interest rate, and term
+- Accepts loan amount, interest rate and term
 
 - Validates input
 
