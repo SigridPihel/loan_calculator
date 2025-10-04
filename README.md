@@ -1,4 +1,4 @@
-# loan_calculator
+# 🧮 Loan Calculator 🧮
 Practicing Java, Spring Boot and Vue.js
 
 # Overview
